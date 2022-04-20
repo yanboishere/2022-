@@ -11,22 +11,39 @@
  本人具有户籍所在地高中连续3年学籍并实际就读。
  
 北京大学	https://www.gotopku.cn/index/detail/1275.html
+
 北京化工大学	https://goto.buct.edu.cn/static/front/buct/basic/html_cms/frontViewArticle.html?id=b892b4cde9244470a39ef3ffc786173f
+
 北京林业大学	http://zsb.bjfu.edu.cn/f/view-7d1ea3a21fef418fbf9d1753226d26e7-7d8d603fdce644829c8df2646ec9abe6.htm
+
 中国传媒大学	https://zhaosheng.cuc.edu.cn/2022/0412/c5842a192437/page.htm
+
 中国地质大学（北京）	https://zhsh.cugb.edu.cn/webDetail.action?id=1636
+
 北京外国语大学	https://joinus.bfsu.edu.cn/info/1033/2906.htm
+
 中国矿业大学（北京）	https://zb.cumtb.edu.cn/static/front/cumtb/basic/html_cms/frontViewArticle.html?id=1ac0dd849202497d88bd9f537fd3071d
+
 北京科技大学	https://zhaosheng.ustb.edu.cn/xwgg/tzgg/6e165dfa92424badb17e19e47237f36a.htm
+
 华北电力大学	https://goto.ncepu.edu.cn/tzgg/cab66d3cfc2c48dd811b0ee9ec861642.htm
+
 北京语言大学	http://zsb.blcu.edu.cn/art/2022/4/12/art_16981_1167204.html
+
 中国石油大学（北京）	https://bkzs.cup.edu.cn/static/front/cup/basic/html_cms/frontViewArticle.html?id=a11f3aeaac274af1b7c86f9a90ed7c4b
+
 北京师范大学	https://admission.bnu.edu.cn/zsxx/129035.html
+
 对外经济贸易大学	https://aeo.uibe.edu.cn/front/showContent.jspa?channelId=848&contentId=107115
+
 北京交通大学	https://zsw.bjtu.edu.cn/article/index/id/1636.html
+
 中国政法大学	http://zs.cupl.edu.cn/info/1028/1091.htm
+
 北京航空航天大学	http://zs.buaa.edu.cn/info/1009/2619.htm
+
 北京理工大学	https://admission.bit.edu.cn/html/1/168/151/1439.html
+
 清华大学	https://join-tsinghua.edu.cn/info/1033/1636.htm
 北京邮电大学	https://zsb.bupt.edu.cn/info/1005/1927.htm
 北京中医药大学	https://bkzs.bucm.edu.cn/xwgg/tzgg/72717.htm
