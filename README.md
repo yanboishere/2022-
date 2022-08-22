@@ -10,7 +10,7 @@
  本人及父母或法定监护人户籍地在各省实施区域的农村，本人具有当地连续3年以上户籍；
  本人具有户籍所在地高中连续3年学籍并实际就读。
  
-北京大学	https://www.gotopku.cn/index/detail/1275.html
+[北京大学]	(https://www.gotopku.cn/index/detail/1275.html)
 
 北京化工大学	https://goto.buct.edu.cn/static/front/buct/basic/html_cms/frontViewArticle.html?id=b892b4cde9244470a39ef3ffc786173f
 
